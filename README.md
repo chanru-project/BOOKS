@@ -25,6 +25,6 @@ This project is a simple RESTful API to manage a list of books using **Node.js**
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/books-api.git
+git clone (https://github.com/chanru-project/BOOKS.git)
 cd books-api
 npm install
